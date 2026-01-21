@@ -3,12 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "My Website"
+  title: "Safia Mariyam"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: CV.qmd
+        text: CV
 
 format:
   html:
