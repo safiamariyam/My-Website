@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "CV.html",
-    "href": "CV.html",
-    "title": "Curriculam Vitae",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
     "section": "",
-    "text": "PDF download here"
+    "text": "Blog Post Title\n\n\n\nQuarto\n\nR\n\nData Analysis\n\n\n\nBlog post description\n\n\n\nSafia Mariyam\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Safia Mariyam",
+    "section": "",
+    "text": "Welcome!\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/YYYY-MM-DD-first-blog-post/index.html",
+    "href": "posts/YYYY-MM-DD-first-blog-post/index.html",
+    "title": "Blog Post Title",
+    "section": "",
+    "text": "This is my first blog post\n\n\n\n\nCitationBibTeX citation:@online{mariyam,\n  author = {Mariyam, Safia},\n  title = {Blog {Post} {Title}},\n  url = {https://safiamariyam.github.io/My-Website/YYYY-MM-DD-first-blog-post},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nMariyam, Safia. n.d. “Blog Post Title.” https://safiamariyam.github.io/My-Website/YYYY-MM-DD-first-blog-post."
   },
   {
     "objectID": "about.html",
@@ -14,10 +28,10 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Safia Mariyam",
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "Curriculam Vitae",
     "section": "",
-    "text": "Welcome!\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "PDF download here"
   }
 ]

@@ -1,0 +1,13 @@
+---
+title: "Blog Post Title"
+format: html
+description: "Blog post description"
+author: Safia Mariyam
+categories: [Quarto, R, Data Analysis]
+citation: 
+  url: https://safiamariyam.github.io/My-Website/YYYY-MM-DD-first-blog-post
+draft: false
+---
+
+# This is my first blog post
+
