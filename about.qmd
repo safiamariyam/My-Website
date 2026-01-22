@@ -1,9 +1,5 @@
 ---
-title: "About"
+title: "Contact Information"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+For any inquiries, please reach out at: **ksafia2003\@gmail.com**

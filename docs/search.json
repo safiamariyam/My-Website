@@ -9,9 +9,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Safia Mariyam",
+    "title": "< Data Analysis with Safia >",
     "section": "",
-    "text": "Welcome!\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Economics and Finance student"
+  },
+  {
+    "objectID": "index.html#i-am-safia-mariyam",
+    "href": "index.html#i-am-safia-mariyam",
+    "title": "< Data Analysis with Safia >",
+    "section": "",
+    "text": "Economics and Finance student"
   },
   {
     "objectID": "posts/YYYY-MM-DD-first-blog-post/index.html",
@@ -23,15 +30,15 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Contact Information",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "For any inquiries, please reach out at: ksafia2003@gmail.com"
   },
   {
     "objectID": "CV.html",
     "href": "CV.html",
     "title": "Curriculam Vitae",
     "section": "",
-    "text": "PDF download here"
+    "text": "To view a PDF copy of my CV, please click here"
   }
 ]

@@ -8,7 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: Contact 
       - href: CV.qmd
         text: CV
       - href: blog.qmd
@@ -17,7 +18,7 @@ website:
 format:
   html:
     theme:
-      - cosmo
+      - dracula
       - brand
     css: styles.css
     toc: true

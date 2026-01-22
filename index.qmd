@@ -1,13 +1,13 @@
 ---
-title: "Safia Mariyam"
+title: " < Data Analysis with Safia > "
 ---
 
-# Welcome!
+# Hello! 
 
-This is a Quarto website.
+## *I am Safia Mariyam :)* 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Economics and Finance student
 
-```{r}
-1 + 1
-```
+# About me
+
+-   I am a fourth year student majoring in Economics and Finance at the University of Winnipeg. My background in high-school consisted of lots of Computer Science and Math which led to an interest in Data Analysis and Statistics. I also work in Accounts Payable with the Government of Manitoba which has helped me learn essential finance skills.
