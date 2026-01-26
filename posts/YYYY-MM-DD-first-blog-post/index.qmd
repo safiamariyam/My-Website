@@ -1,7 +1,7 @@
 ---
-title: "Blog Post Title"
+title: "Assignment 1"
 format: html
-description: "Blog post description"
+description: "Data Analysis - assignment # 1 - creating a quarto website"
 author: Safia Mariyam
 categories: [Quarto, R, Data Analysis]
 citation: 
@@ -9,4 +9,4 @@ citation:
 draft: false
 ---
 
-# This is my first blog post
+# Click [here](files/assignment_1.pdf) to see a pdf version of Assignment 1

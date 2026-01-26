@@ -4,7 +4,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Blog Post Title\n\n\n\nQuarto\n\nR\n\nData Analysis\n\n\n\nBlog post description\n\n\n\nSafia Mariyam\n\n\n\n\n\n\nNo matching items"
+    "text": "Assignment 1\n\n\n\nQuarto\n\nR\n\nData Analysis\n\n\n\nData Analysis - assignment # 1 - creating a quarto website\n\n\n\nSafia Mariyam\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -23,9 +23,9 @@
   {
     "objectID": "posts/YYYY-MM-DD-first-blog-post/index.html",
     "href": "posts/YYYY-MM-DD-first-blog-post/index.html",
-    "title": "Blog Post Title",
+    "title": "Assignment 1",
     "section": "",
-    "text": "This is my first blog post\n\n\n\n\nCitationBibTeX citation:@online{mariyam,\n  author = {Mariyam, Safia},\n  title = {Blog {Post} {Title}},\n  url = {https://safiamariyam.github.io/My-Website/YYYY-MM-DD-first-blog-post},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nMariyam, Safia. n.d. “Blog Post Title.” https://safiamariyam.github.io/My-Website/YYYY-MM-DD-first-blog-post."
+    "text": "Click here to see a pdf version of Assignment 1\n\n\n\n\nCitationBibTeX citation:@online{mariyam,\n  author = {Mariyam, Safia},\n  title = {Assignment 1},\n  url = {https://safiamariyam.github.io/My-Website/YYYY-MM-DD-first-blog-post},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nMariyam, Safia. n.d. “Assignment 1.” https://safiamariyam.github.io/My-Website/YYYY-MM-DD-first-blog-post."
   },
   {
     "objectID": "about.html",
