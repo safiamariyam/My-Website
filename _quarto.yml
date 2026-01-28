@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  
+resources: 
+- files/econ_2204_assignment_1.pdf
 
 website:
   title: "Safia Mariyam"
@@ -13,13 +16,12 @@ website:
       - href: CV.qmd
         text: CV
       - href: blog.qmd
-        text: BLOG
+        text: Assignment Blogs
 
 format:
   html:
     theme:
-      - dracula
-      - brand
+      - cosmo
     css: styles.css
     toc: true
 

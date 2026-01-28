@@ -1,12 +1,17 @@
 ---
 title: "Assignment 1"
 format: html
-description: "Data Analysis - assignment # 1 - creating a quarto website"
+description: "Data Analysis - Assignment # 1 - Creating a quarto website"
 author: Safia Mariyam
 categories: [Quarto, R, Data Analysis]
 citation: 
   url: https://safiamariyam.github.io/My-Website/YYYY-MM-DD-first-blog-post
 draft: false
+image: photo.jpg
 ---
 
-# Click [here](files/assignment_1.pdf) to see a pdf version of Assignment 1
+# Click [here](files/econ_2204_assignment_1.pdf) to see a pdf version of Assignment 1 
+
+note:
+
+I added a "resources" section to the \_quarto.yml file because my pdf was not showing up here.

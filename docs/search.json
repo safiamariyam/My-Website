@@ -2,9 +2,9 @@
   {
     "objectID": "blog.html",
     "href": "blog.html",
-    "title": "Blog",
+    "title": "ECON 2204 - Assignments",
     "section": "",
-    "text": "Assignment 1\n\n\n\nQuarto\n\nR\n\nData Analysis\n\n\n\nData Analysis - assignment # 1 - creating a quarto website\n\n\n\nSafia Mariyam\n\n\n\n\n\n\nNo matching items"
+    "text": "Assignment 1\n\n\n\nQuarto\n\nR\n\nData Analysis\n\n\n\nData Analysis - Assignment # 1 - Creating a quarto website\n\n\n\nSafia Mariyam\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -25,7 +25,7 @@
     "href": "posts/YYYY-MM-DD-first-blog-post/index.html",
     "title": "Assignment 1",
     "section": "",
-    "text": "Click here to see a pdf version of Assignment 1\n\n\n\n\nCitationBibTeX citation:@online{mariyam,\n  author = {Mariyam, Safia},\n  title = {Assignment 1},\n  url = {https://safiamariyam.github.io/My-Website/YYYY-MM-DD-first-blog-post},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nMariyam, Safia. n.d. “Assignment 1.” https://safiamariyam.github.io/My-Website/YYYY-MM-DD-first-blog-post."
+    "text": "Click here to see a pdf version of Assignment 1\nnote:\nI added a “resources” section to the _quarto.yml file because my pdf was not showing up here.\n\n\n\n\nCitationBibTeX citation:@online{mariyam,\n  author = {Mariyam, Safia},\n  title = {Assignment 1},\n  url = {https://safiamariyam.github.io/My-Website/YYYY-MM-DD-first-blog-post},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nMariyam, Safia. n.d. “Assignment 1.” https://safiamariyam.github.io/My-Website/YYYY-MM-DD-first-blog-post."
   },
   {
     "objectID": "about.html",
